@@ -1,0 +1,59 @@
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmQmW4Tcy1fpmd5aj5mU8FupeZ6oWSzkzT9g&usqp=CAU");
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    color: #333;
+    padding: 50px;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 50px;
+    color: #fff;
+  }
+  
+  form {
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+  }
+  
+  input[type="number"] {
+    width: 100%;
+    padding: 20px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  input[type="submit"] {
+    width: 100%;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #fff;
+    color: #333;
+  }
+  
+  #result {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 20px;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+  }
+  
